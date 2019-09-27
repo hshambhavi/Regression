@@ -1,0 +1,498 @@
+WEBVTT
+
+1
+00:00:00.480 --> 00:00:05.400
+Okay, but what exactly are you looking for what we do as here is
+
+2
+00:00:09.510 --> 00:00:09.660
+To
+
+3
+00:00:17.699 --> 00:00:33.450
+Estimate. So begin as a team. We give two offerings. So one is estimating the runtime of automation. One more is if you have lot of text and you want to put it into buckets clustering so that the huge quantity of
+
+4
+00:00:34.020 --> 00:00:43.950
+Text, you can, it becomes manageable. So that is another service that we give, I can do both. If you do deal with lot of loggers as any kind of
+
+5
+00:00:45.450 --> 00:00:46.710
+More, more, not
+
+6
+00:00:48.870 --> 00:00:55.260
+Okay so estimate on time. The first step is to create your profile configuration.
+
+7
+00:00:57.000 --> 00:01:06.660
+And we also need to know what are all the variables which will lead to the variability of the right types. For example, if we take restore
+
+8
+00:01:07.830 --> 00:01:16.530
+Yeah, I saw the resource profile. If you have gone to the right places. Yeah. So source target and the DB size are
+
+9
+00:01:17.730 --> 00:01:29.700
+Independent variables. Those are the ones which are leading to the variance in the runtime and also the historical data along with it. So we need the runtime of the previous rams and the corresponding
+
+10
+00:01:31.470 --> 00:01:34.260
+Yeah. So with that we build the models.
+
+11
+00:01:43.080 --> 00:01:51.270
+Right now we are building something called an ML workbench where you yourself can do everything automatically will tell you.
+
+12
+00:01:52.230 --> 00:02:02.820
+Which will be the best model and also we have this model creation schedule is that I'm things made the process might become faster, slower. For example, the connectivity between the data centers and
+
+13
+00:02:03.390 --> 00:02:13.140
+So we refresh the model every 30 days or 10 days and then historical data if it lies in one table, you can just directly give the table name.
+
+14
+00:02:14.040 --> 00:02:26.790
+And the columns that you want to take from that to that table. Otherwise, if you're taking data from multiple tables, you can write the script to get the data and then MN configurations. We have
+
+15
+00:02:27.990 --> 00:02:31.290
+random forests linear regression random tree and all of that.
+
+16
+00:02:32.010 --> 00:02:40.020
+Though we have all of this right now for a few models that means assembling a model might work for finding out there and type. For others, it might not.
+
+17
+00:02:40.380 --> 00:02:51.210
+So, this we actually know Kelly, get your data. We can help you out to see which model fits your data. Best we look into the graphs and
+
+18
+00:02:52.050 --> 00:03:03.990
+Other metrics of your opposite means credit a messy correlation coefficient and basically the graphs of how much the prediction and natural law very kind of thing and
+
+19
+00:03:04.560 --> 00:03:13.170
+Decide on what model works best for which so mostly it's linear or random forest, which works to know other models that we have
+
+20
+00:03:15.570 --> 00:03:17.010
+Yeah, so
+
+21
+00:03:19.740 --> 00:03:28.230
+This despite is very cryptic. Right. Is that what you're asking. Yeah, these are so in the back end. We use wake up. Yeah. So if you see
+
+22
+00:03:29.310 --> 00:03:30.510
+In a box, which was
+
+23
+00:03:31.770 --> 00:03:49.380
+Yeah. So yeah, so we have a Java and we have EFT server, basically. So the REST calls are need to make the model and our jabalia calls my college degrees. So these are the inputs which goes for the recalibrating
+
+24
+00:03:50.520 --> 00:04:03.300
+So this can be tuned especially so this if you see from here you might understand better what exactly might mean I don't have a good data now.
+
+25
+00:04:03.810 --> 00:04:14.220
+But if you have a data key. They'll have most of us to say how many trees do you want to build. How many do you want to clip. What is those all those kind of things is what
+
+26
+00:04:15.300 --> 00:04:27.420
+Are these. Yeah. Yeah. But each one is a separate thing. So there's a little number 14 grams here. Correct. Correct. Correct. So
+
+27
+00:04:28.650 --> 00:04:44.190
+And we kind of how many younger than trend. Yeah. And here we are only four so we can populate if if you feel like our data set. There is another algorithm which works better than we can upload here.
+
+28
+00:04:45.900 --> 00:04:54.030
+The back in Joliet it won't support, right, because we are not calling right now we are calling only these particular models of the record label. Yeah.
+
+29
+00:04:55.290 --> 00:05:02.310
+Next seen a quarter or so you will be able to do it independently. That's what we are breeding and the recording.
+
+30
+00:05:05.850 --> 00:05:07.740
+Is what I'm not sharing
+
+31
+00:05:26.340 --> 00:05:26.580
+Okay.
+
+32
+00:05:32.400 --> 00:05:34.800
+And for our environment, generally.
+
+33
+00:05:35.970 --> 00:05:37.980
+What is the scoring algorithm that we wish.
+
+34
+00:05:39.780 --> 00:05:41.970
+I didn't make a career of which scoring and
+
+35
+00:05:43.290 --> 00:05:52.080
+So there. Exactly. Yeah. It is us right now, listen, three places. One is to see
+
+36
+00:05:53.610 --> 00:06:00.510
+If the very first thing is to block a car usually for clone and all that to be on a safer side.
+
+37
+00:06:01.980 --> 00:06:12.750
+A long duration is taken last lock was being taken, but that constant thing you're locking the CIA. And then there are many other automation which failed to get a lot
+
+38
+00:06:13.920 --> 00:06:24.930
+Because a long duration is Technic might get over and the release the law but STD, something which you take a lot much ahead right so that period of the CA is lost when you take a long block.
+
+39
+00:06:25.320 --> 00:06:40.500
+So optimal utilization of ca locks. So before taking a lot EFT is called the estimate the lockers taken on that estimate that is one use case. The second use cases, again, again, I'll take loan so Stan to by example.
+
+40
+00:06:41.490 --> 00:06:50.850
+So with clone when a user shadows that loan will have to intimate by when Nikki be done right. So to give the
+
+41
+00:06:51.840 --> 00:07:03.690
+End users, the EPA of when we get to work. So ETF for the customer locking the CIA. And the third thing we are right now losing for restore and patching always patching.
+
+42
+00:07:04.560 --> 00:07:17.130
+Is to see whether it is slow running so restore on top so expected time as this much. So by 50% of this this much should be done and all that we can keep checking from the estimate
+
+43
+00:07:17.550 --> 00:07:29.310
+And then flag up slow running restore or flag or slower any patching much ahead of the completion time so that the beforehand. We know that it's slow running and
+
+44
+00:07:29.880 --> 00:07:37.500
+See the gods of why it's running slow or if it can be replicated or the creature is already there. This statistic is
+
+45
+00:07:37.920 --> 00:07:47.700
+Slow and he still dragons restart progress dashboard is there yeah patching, they do it in a different way each sub workflow of passing the
+
+46
+00:07:48.630 --> 00:08:00.780
+Baton breakdown is the profile here for each profile a sub workflow. There is an activity that is a runtime call. So after the
+
+47
+00:08:01.290 --> 00:08:13.770
+So that activity is running it is expected to take this much time it's taking much longer. So through through the patching itself during the activity each activity, you will get them. So that's how they use it for slowly slow pattern.
+
+48
+00:08:14.790 --> 00:08:18.660
+So these are the three basic use cases, CA lock and
+
+49
+00:08:20.490 --> 00:08:21.180
+So, okay.
+
+50
+00:08:22.200 --> 00:08:30.480
+Like for example, like if you have a data set. Yeah. So for our platform, actually. So if you want to implement it for our data set.
+
+51
+00:08:31.500 --> 00:08:36.210
+So our platform can automatically detect like which is
+
+52
+00:08:37.500 --> 00:08:44.520
+No currently if you tell me where the data lives. I can help you look into with Python.
+
+53
+00:08:45.570 --> 00:08:49.290
+And see which one works better and do this part of the
+
+54
+00:08:51.240 --> 00:08:58.770
+Configuration part right that part helping it initially I can help you out next quarter will be in a position
+
+55
+00:08:59.550 --> 00:09:14.220
+Is something that you will be independently. You can do it. So we will give you the graphs of for each model different parameters that you are giving and the parameters, firstly, more understandable what each parameter is break it down into more boxes and give
+
+56
+00:09:15.780 --> 00:09:30.240
+The graphs off for that particular model. What is the estimated one and what is the actual So comparing you can see which model works more closer to your thing, those kind of things we're planning to give in the next quarter.
+
+57
+00:09:31.830 --> 00:09:42.120
+But right now, if you want to work on something you can tell us where the data lives and we can work it out for you. Yeah, basically one idea which we
+
+58
+00:09:44.070 --> 00:09:48.300
+Like we have green means there is an automation, which will
+
+59
+00:09:49.620 --> 00:10:06.090
+Which will based on the Alert, alert comes and there will be a server in the alert saying that if it is app server, it will go ahead and train all the episodes saying that the server is going wrong. Okay. Very nice. Deviance app nodes.
+
+60
+00:10:07.260 --> 00:10:07.620
+So,
+
+61
+00:10:08.910 --> 00:10:10.620
+We already have a year developed
+
+62
+00:10:12.720 --> 00:10:30.270
+Article automation to drain. So we are calling that automation. Our automation is simply a wrapper around different operating individually. Okay, but we have a separate workflow which handles happened, maybe not. We wanted to do is based on how many nodes are their own server.
+
+63
+00:10:31.530 --> 00:10:41.190
+How many nodes that they had on server and with data center utilize, we should be able to tell that draining the server might require this much time.
+
+64
+00:10:42.300 --> 00:10:48.120
+Okay, so. Okay, so what did he have
+
+65
+00:10:49.230 --> 00:11:01.170
+Does that automation baby train have its own historical data. Yes. Okay. If you could point me to that table. I can look into the data. Basically, we
+
+66
+00:11:03.000 --> 00:11:08.220
+We can just look at, like how it started happening. I saw the source code that is going in.
+
+67
+00:11:11.520 --> 00:11:12.390
+Context as a
+
+68
+00:11:13.740 --> 00:11:14.880
+Similar thing admin.
+
+69
+00:11:16.200 --> 00:11:32.730
+Okay, so I just wanted to ask, like what you need. If you want to implement that duster history table or what are all the parameters that you think parameters which data center, which doesn't matter how many notes.
+
+70
+00:11:34.140 --> 00:11:34.530
+Okay.
+
+71
+00:11:38.610 --> 00:11:43.650
+Okay. And how many notes again we taught walk in and get it. Yes, yes. Okay.
+
+72
+00:11:46.590 --> 00:11:53.820
+Status internally metals depends on the network in the data center. And if there are those I bicycle location to do
+
+73
+00:11:54.450 --> 00:12:03.630
+The training offerings that are like very for how was your particular don't know I'm not a green room in the same data center only for. Yes. Okay.
+
+74
+00:12:03.960 --> 00:12:19.680
+So like if it is as this evening six will grant all the notes into. So this is excellent. Okay, so why I'm saying this is performance. Performance might vary between is JC and we have a 10 we can compare that with this, right. So I added
+
+75
+00:12:20.700 --> 00:12:20.970
+But
+
+76
+00:12:23.940 --> 00:12:25.470
+Then we will be having
+
+77
+00:12:28.020 --> 00:12:33.390
+Yeah, is there something else that we can see when you say the power of
+
+78
+00:12:34.830 --> 00:12:35.190
+Is it
+
+79
+00:12:36.270 --> 00:12:38.580
+Aren't all instances with similar
+
+80
+00:12:41.220 --> 00:12:42.570
+Conversations have saved.
+
+81
+00:12:45.360 --> 00:12:53.700
+Okay. Um, it might also depend on that particular time. It might be busy or something. And so that takes longer.
+
+82
+00:12:56.250 --> 00:13:00.570
+But the very apart from number of nodes.
+
+83
+00:13:03.150 --> 00:13:11.520
+We can see whether it is one data center, it always takes a longer time for similar number of nodes, kind of, is that what you're looking, you
+
+84
+00:13:13.530 --> 00:13:14.250
+Know, no.
+
+85
+00:13:16.170 --> 00:13:27.480
+Okay that's England, I am I just wanted like this should say. Given this data center point and a number of nodes. It takes this time.
+
+86
+00:13:29.070 --> 00:13:47.520
+Yeah, number of nodes, I can understand that data center for the when we take, we mean to understand the underlying thing that we're saying this particular data center is might be always slow or might be always fast kind of understanding is down the line is never
+
+87
+00:13:48.930 --> 00:13:50.580
+Wonder doesn't recycling or dancing.
+
+88
+00:13:52.500 --> 00:13:58.260
+Also will be faster. So do we take the DNA. DNA for into account, instead of just a
+
+89
+00:14:00.330 --> 00:14:11.790
+But if we take the actual as you know for is coming to all the data center, sooner or later. Yeah, but right now it might be one of the very right might be. Yeah, I mean I
+
+90
+00:14:12.150 --> 00:14:27.630
+Assume like DNS, or is there we can assume that it will be faster if the only thing is we can actually it is a bit slower. And number four, so correct so and so we already confirmed like that particular class like faster absolute
+
+91
+00:14:28.680 --> 00:14:31.110
+Clarity. We got correct so
+
+92
+00:14:32.520 --> 00:14:41.790
+So it can be if it is going to be faster, slower. We can have it as one variable is it DNA for or not a Boolean variable. So, you will have
+
+93
+00:14:43.620 --> 00:14:58.410
+Like another column using like another variable gifting is a DNA or not kind of variable to tell us we expect it to be faster or slower means that was one example which Facebook, you don't know other
+
+94
+00:15:01.440 --> 00:15:10.470
+Like this again hardware or software or hardware is also matters as CPU CPU processing is also much
+
+95
+00:15:11.850 --> 00:15:14.580
+More of at that particular time kind of right
+
+96
+00:15:15.780 --> 00:15:16.890
+Which
+
+97
+00:15:18.390 --> 00:15:24.480
+Historically, even if we say get that data at that particular time. How much was the CPU usage.
+
+98
+00:15:25.500 --> 00:15:35.160
+But when they're going to predict for, say, so next time when the model is built, you will be saying this many app nodes. This data center. If I don't say
+
+99
+00:15:36.000 --> 00:15:43.890
+What do you say this much as the CPU. Currently, how much time is it going to take kind of thing is difficult to given as an input. When you want estimator.
+
+100
+00:15:45.240 --> 00:15:45.630
+Yeah.
+
+101
+00:15:47.280 --> 00:15:53.490
+For us too many parameters are actually yeah the right you can
+
+102
+00:15:54.810 --> 00:16:09.060
+Okay, because data center. Let me give a data center, we are actually expecting, not just it or sjc we want the entire thing because in it, then maybe for your DNA for God in a tree right so you want the entire
+
+103
+00:16:10.230 --> 00:16:14.250
+Full thing, right. Is that what you so
+
+104
+00:16:15.810 --> 00:16:29.700
+In when we go to a server. There is a field which is data center on which that as enter the server is being like, hmm, so it will be either SDS sex or be affected me see it. And no
+
+105
+00:16:30.840 --> 00:16:48.690
+One. So, so everything is independent I you're saying like within the sjc there might be, as this is this is this so you have that you want to that granular. Yes, yes. So you want to go deeper in on a 66 or five daughters. Okay, that is done, but
+
+106
+00:16:52.500 --> 00:17:11.220
+Yeah, we'll have to see if that is actually may being an important variable. Okay, yeah, we can we can check, we can start with that status, the hundreds. Can we look into more concrete data versus just what I want to understand because I'm not so basically this is just initial
+
+107
+00:17:12.300 --> 00:17:30.930
+Yeah, we thought of understanding how we are implementing the platform. And then we took us this very basic example. Okay. Okay, so you have many more use cases, yes, not, not right now. Okay, but you will. So by then. I think we'll also be ready with things that you can do on your own.
+
+108
+00:17:33.600 --> 00:17:35.730
+And given the fact that
+
+109
+00:17:37.950 --> 00:17:42.390
+How much variables we capture to explain the variants that most accurately.
+
+110
+00:17:43.650 --> 00:17:52.950
+More than how many nodes if there is something as which you're not capturing then a boy to gives us so
+
+111
+00:17:54.780 --> 00:18:08.820
+Yeah. So then you'll, of course, since we are predicting particular number giving a little more buffer to the customer is 42 intimate. What is a useful. So use cases like currently in the pecan the mysterious burden and the rest
+
+112
+00:18:10.500 --> 00:18:18.180
+Is history. So the being processed carbs they need to keep on monitoring, they are not sure when it ends.
+
+113
+00:18:19.740 --> 00:18:24.450
+Of course, we are handling it in a way, saying that when it ends will move that over to a new state.
+
+114
+00:18:25.470 --> 00:18:41.130
+Oh that is happening automatically yes yeah going on. It is completed, it will go to close or if it fails, it will go to new state, we wanted to provide more concrete things in it within this time. Yes, it does. So committing that is
+
+115
+00:18:42.480 --> 00:19:02.580
+How we do it from our table after table we have that doesn't have information right under the table will also have start time on as well as ends of the Earth. So that is giving the completion time of that particular brain process and that process and it will be was the
+
+116
+00:19:04.020 --> 00:19:13.800
+Spine how we want to fix it. You're talking about source, how to get the bank. Yeah, that is fine. Either we can get from workflow or from alert or
+
+117
+00:19:14.160 --> 00:19:24.810
+If you guys want to see into what Allah. Allah says, and there are many ways. But what she's asking more specifically is like. Are there any more parameters. So you're building SS
+
+118
+00:19:26.010 --> 00:19:32.490
+Yeah, we can make that as a start. So, maximum for us and five to four hours is a lot of time.
+
+119
+00:19:35.130 --> 00:19:42.540
+I can work on that. If you can just give me a few pointers of where to look in your workflow context. I can manage to do that.
+
+120
+00:19:45.780 --> 00:19:59.220
+Yeah, I didn't do your metrics. I will. Okay, I will give you like, how is that okay yeah thank so if you create a profile and you fill in those scripts.
+
+121
+00:19:59.850 --> 00:20:16.440
+I can download it then investigate refer to the store one profile, create a new profile in depth when the but all your data will be more IN PROD okay they work for. And now, I mean, at least. OK.
+
+122
+00:20:17.910 --> 00:20:22.500
+Ok, ok. Once we get something in. Do I can get the similar data from prod
+
+123
+00:20:28.950 --> 00:20:30.090
+So,
+
+124
+00:20:35.910 --> 00:20:37.530
+Anyway, I got it. So,
+
