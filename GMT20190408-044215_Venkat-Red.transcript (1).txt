@@ -1,0 +1,126 @@
+WEBVTT
+
+1
+00:00:06.629 --> 00:00:07.259
+Hello everyone.
+
+2
+00:00:08.610 --> 00:00:13.049
+I will be presenting about my Hackathon area which is more light.
+
+3
+00:00:15.059 --> 00:00:22.830
+So the team includes myself and the compressor, who's an intern has joined our team recently.
+
+4
+00:00:23.940 --> 00:00:24.600
+So,
+
+5
+00:00:29.670 --> 00:00:34.290
+So the simpler agenda here is what is the idea. And how did I
+
+6
+00:00:35.580 --> 00:00:42.870
+Already implement and quick demo. And what could the scope of this and capital if any questions.
+
+7
+00:00:46.080 --> 00:00:47.910
+So come into the idea or you
+
+8
+00:00:50.490 --> 00:01:00.750
+How do we unit test particular block of code, which requires any great records. Ideally, which is reading the data or which is getting the data are using the
+
+9
+00:01:01.530 --> 00:01:12.780
+Any record to do some business logic. So that is the main scenario when this scenario is applicable vote for any internal or any third is not all operator its internal or external developer
+
+10
+00:01:13.470 --> 00:01:32.040
+And they should provide an ability to use in memory data to you for a new test to execute. So that is the overview of the idea. And actually, how did we we implement in this hackathon is or entrepreneur DC. The couple of
+
+11
+00:01:33.360 --> 00:01:39.810
+Classes which which will like more played record and Marco, which will actually mimic
+
+12
+00:01:41.040 --> 00:01:56.460
+The behavior of cloud record and in wherever the places we need to actually instantiate that later record we probably do with the letter code and use that data to unit as the code and there is an external library were using sin on JS.
+
+13
+00:01:57.810 --> 00:02:04.110
+Which is used to stop the functions which we actually don't want to execute during the unit test execution.
+
+14
+00:02:06.270 --> 00:02:10.230
+So we can just quickly go to demo and see how it
+
+15
+00:02:12.930 --> 00:02:13.380
+Works.
+
+16
+00:02:17.970 --> 00:02:24.060
+So this is the piece of code that I need to unit test, which is
+
+17
+00:02:26.760 --> 00:02:35.460
+We ain't given a glide record of so it will iterate through the records and prepare an object which is like get big don't object come given
+
+18
+00:02:35.850 --> 00:02:45.480
+One metric data record. So this is so happy support that have taken us, for example, and to make to unit as this piece of code I named the glide record.
+
+19
+00:02:46.860 --> 00:02:55.620
+With some set of data, which will result in or passing through or execution of the different parts. This method actually covers
+
+20
+00:02:56.730 --> 00:03:02.400
+And this is the actual piece of code. And going back to unit test.
+
+21
+00:03:03.750 --> 00:03:07.860
+So this is a unit test that I have written to
+
+22
+00:03:10.050 --> 00:03:19.830
+So this is a unit test model which tests. Prepare great on object and that needs an instance of meta data, as I mentioned, and the
+
+23
+00:03:20.850 --> 00:03:45.060
+village level showing the method. So this needs a record from this table so meta data. And here we can see as of now I have this record the metadata record holds value or greater value and depending on the IDs of the breakdown element, the labels also will be there so
+
+24
+00:03:48.630 --> 00:03:59.850
+Given this record how my unit test should behavior should be here is the same, or is this a unit is that it is here. So, which will say, or if I break down object info.
+
+25
+00:04:00.330 --> 00:04:16.950
+And in this scenario. This is the method that we're calling get breakdown object informative data Leah, and this is given with the record that on the mock record that is sitting in the initiation method and we can assert that
+
+26
+00:04:18.000 --> 00:04:21.120
+Though, so this is the actual object from given one record.
+
+27
+00:04:22.140 --> 00:04:39.780
+And so we can see that this is the expected object in this structure with the execution time as a label and the breakdown value. And so this is how we assert. So these math this unit testing doesn't need any data on the database for it to happen and, subsequently, we can write
+
+28
+00:04:41.760 --> 00:04:52.560
+That unit tests with the data sets or values are differing based on the number of paths, a function or piece can execute or can result in
+
+29
+00:05:02.730 --> 00:05:14.010
+And yeah, what is the scope of this. So he imagined. If this is a plateau part of ServiceNow platform and it would be easy for any developer, as mentioned, it would be easy for
+
+30
+00:05:15.030 --> 00:05:17.700
+Any of this other non developer to it as a piece of code.
+
+31
+00:05:21.000 --> 00:05:22.800
+Any questions, the kinetic
+
