@@ -1,0 +1,946 @@
+WEBVTT
+
+1
+00:07:23.310 --> 00:07:25.590
+Let me see if he can
+
+2
+00:07:27.900 --> 00:07:28.620
+Join at least
+
+3
+00:07:32.610 --> 00:07:33.540
+John so yeah
+
+4
+00:07:34.890 --> 00:07:36.270
+I think only gym is the pages.
+
+5
+00:07:36.840 --> 00:07:37.050
+Hey,
+
+6
+00:07:39.420 --> 00:07:44.850
+Hey. Hi. Jennifer Scalia, I joined recently as part of the cloud analytics team at the manager.
+
+7
+00:07:45.360 --> 00:07:45.720
+How great
+
+8
+00:07:48.750 --> 00:07:53.730
+We gave a couple of minutes to show me because I think. Yeah, give us a moment.
+
+9
+00:08:29.370 --> 00:08:30.780
+Are you in the meeting.
+
+10
+00:08:37.080 --> 00:08:37.320
+Okay.
+
+11
+00:08:42.420 --> 00:08:42.870
+So I
+
+12
+00:08:46.830 --> 00:08:47.310
+Hello.
+
+13
+00:08:49.050 --> 00:08:49.620
+She died.
+
+14
+00:08:55.620 --> 00:08:57.930
+Okay, so somebody you're on the audience.
+
+15
+00:08:59.250 --> 00:09:00.270
+Yeah, she's good.
+
+16
+00:09:02.730 --> 00:09:12.150
+Okay, cool. Um, so this isn't a huge thing. But let me show you what I saw share my screen.
+
+17
+00:09:30.900 --> 00:09:31.110
+Hi.
+
+18
+00:09:39.810 --> 00:09:41.790
+Can you increase the size. Yes, sorry.
+
+19
+00:09:43.860 --> 00:09:44.550
+I'm sorry, what's
+
+20
+00:09:46.380 --> 00:09:47.970
+The size of it. It's a bit small.
+
+21
+00:09:48.360 --> 00:09:49.530
+Just one sense, yeah.
+
+22
+00:09:55.170 --> 00:09:55.800
+So,
+
+23
+00:09:57.810 --> 00:10:02.700
+This is kind of a minor thing but it keeps happening. So I was asking me, Shannon. Bobby, if we could
+
+24
+00:10:03.990 --> 00:10:07.140
+Could do something about it. Another minute too big.
+
+25
+00:10:12.540 --> 00:10:16.860
+And anyhow. Um, what typically happens is we upgrade and then
+
+26
+00:10:17.970 --> 00:10:22.260
+I realize that the pattern thing didn't run well
+
+27
+00:10:23.310 --> 00:10:28.050
+Usually what happens is I don't realize that had anything didn't run. I go here and I look for.
+
+28
+00:10:29.820 --> 00:10:36.690
+For new errors. After the upgrade and I say, okay, we haven't had a new era since 710
+
+29
+00:10:37.020 --> 00:10:37.920
+So everything's fine.
+
+30
+00:10:39.000 --> 00:10:39.420
+And then
+
+31
+00:10:41.070 --> 00:10:51.210
+And then I realized know they must have put some new error message in the program or warning or something. So then I I'm like, oh, what I have to do. And then I I go figure out and I run the
+
+32
+00:10:53.010 --> 00:10:55.710
+Runs once a week now. Is that right, somebody
+
+33
+00:10:56.670 --> 00:10:58.230
+Yes, on justice.
+
+34
+00:10:59.790 --> 00:11:03.780
+Right on Tuesdays. So, um, I think it's about to run so
+
+35
+00:11:05.220 --> 00:11:08.580
+And I know how to kick it off if I need to. So I was just
+
+36
+00:11:10.380 --> 00:11:16.620
+I was just I'd forgotten why we why we do it weekly. And I was wondering if there was some
+
+37
+00:11:17.250 --> 00:11:19.140
+Way to make sure it happened after an upgrade.
+
+38
+00:11:22.170 --> 00:11:43.590
+So after upgrade is very like to see that. Right. So will it be okay if we give an API, which gets called by that great team after everything settles or after 24 hours of that or do we give a button, which can just all here which says get new patterns in the ideal job.
+
+39
+00:11:44.040 --> 00:11:55.770
+Thinking about that. Yes. Right. That but he's so busy with the upgrade. Yeah, why don't I find out for you what the best way to do that is because I'm sure there's someone here who knows, um,
+
+40
+00:11:57.390 --> 00:12:03.840
+Because yeah, I was like I was thinking about how would you know that an upgrade happened 24 hours ago.
+
+41
+00:12:06.030 --> 00:12:06.720
+Yeah, so
+
+42
+00:12:07.620 --> 00:12:12.150
+APA or the button and upgrading my esteem probably
+
+43
+00:12:12.780 --> 00:12:13.230
+Yeah.
+
+44
+00:12:14.610 --> 00:12:22.440
+If they could use that API or the button, so it'd be better if we talked to them and they learned after an upgrade.
+
+45
+00:12:22.800 --> 00:12:25.350
+Okay, yeah. Why is this team would probably be a good one to do it.
+
+46
+00:12:27.270 --> 00:12:33.720
+Okay, yeah, so probably will ask them whether they will like an API or a button. Right. Okay.
+
+47
+00:12:33.960 --> 00:12:34.440
+Sounds good.
+
+48
+00:12:37.980 --> 00:12:46.170
+So is there any preference mostly with a great team who will be annoying when the upgrade happens so they're able to trigger the API to right
+
+49
+00:12:46.560 --> 00:12:47.130
+Yeah, that makes
+
+50
+00:12:47.400 --> 00:12:50.160
+It requires the right guy we just asked him, What do you
+
+51
+00:12:53.040 --> 00:13:00.420
+Mean by 13 they should be at next several days over the last one. The last week, they might not have been us.
+
+52
+00:13:01.530 --> 00:13:02.850
+We don't drive it from there.
+
+53
+00:13:04.110 --> 00:13:04.590
+Yeah.
+
+54
+00:13:08.970 --> 00:13:10.050
+How many new hires coming
+
+55
+00:13:13.470 --> 00:13:24.330
+And regarding the other one, the updated versions looks like because we are extending the application table. Yeah, we have launched a request for
+
+56
+00:13:26.790 --> 00:13:37.260
+So long. She was just thinking about you had asked this earlier that you would want to see that there's more frequently, rather than wait for a week. Right, right. So do we give you an EPA or
+
+57
+00:13:38.280 --> 00:13:46.950
+A patent kind of thing which you could click car called API after 24 hours of an upgrade so that there are lucky headers, which get accumulating
+
+58
+00:13:47.970 --> 00:13:56.370
+So, which one would you prefer. Do you want to think about it and get back. What am I would prefer in tonight, and I said, Okay, yeah. So right there.
+
+59
+00:13:57.300 --> 00:14:03.900
+Table manual that right. You can do that. You write some code that runs right after or that figures debate.
+
+60
+00:14:04.260 --> 00:14:16.440
+Know, giving Tony, can I can run it on demand outside. So, but if you give me a button. If I wanted to me. What I want you to understand. Is there any script that you run after uptake that you have on your side. We don't have an answer.
+
+61
+00:14:19.710 --> 00:14:20.640
+So we will say this.
+
+62
+00:14:22.860 --> 00:14:23.610
+Is
+
+63
+00:14:25.980 --> 00:14:26.490
+Immediately after that.
+
+64
+00:14:27.600 --> 00:14:39.480
+Yeah, because it was so nice covering up here, it has to capture the logs. Then we analyze the logs into any new so we come back to this common seeing if this is a new in here.
+
+65
+00:14:40.020 --> 00:14:47.580
+Or is it been opening the one point that I'm trying to say here is that even though, let's say the discoveries running but you'll get to know when the discoveries and it right
+
+66
+00:14:48.540 --> 00:14:55.080
+Now, let me know. So we will be faster so that love knowledge they need to come, click the button wait for some time, because we need to
+
+67
+00:14:57.570 --> 00:15:07.470
+Be ready when they come to this is the place will be coming to the first occurred on you have a button there. You like that in itself 545 minute thing.
+
+68
+00:15:11.280 --> 00:15:12.990
+Because it might be
+
+69
+00:15:14.550 --> 00:15:24.870
+Three minutes while that happens. So, in your case, there's a trigger, which can be used to invoke it tech button. Seems like we have to go into it every time.
+
+70
+00:15:25.980 --> 00:15:35.730
+Yeah, that's my little bit of my concern. Like it easy for you, actually, as soon as the discovery and you will get some event right see that okay so say
+
+71
+00:15:36.510 --> 00:15:44.640
+We take a discord DC do an example. We have around 3040 disco schedules will be running at different times.
+
+72
+00:15:45.240 --> 00:15:59.070
+So each will trigger start working at its own scheduled time Michael ended a different time. So when you say it's auto trigger you have to run your job as soon as a schedule ends for each scheduled
+
+73
+00:16:00.150 --> 00:16:11.670
+Every be like that. And the design perspective how you are planning to do that. Like, how much is the Lord is going to fall under the center. That's one thing on introduce introduce punk. Okay, so that is the first thing. The second thing is
+
+74
+00:16:13.230 --> 00:16:18.360
+How you simulate the data and present the data is it like the data from the last round to present Cheyenne or
+
+75
+00:16:21.900 --> 00:16:27.150
+So if you want to do that. So, for example, the last time that you have run around.
+
+76
+00:16:28.440 --> 00:16:45.330
+9am what time is three and 410 am industry again. So you're going to show the one hour of gap in a different way, or is it again the candidate of all of them. It's only the car loans which will be taking but to me.
+
+77
+00:16:46.530 --> 00:16:54.840
+I feel it's better that you give it at least they know all the discovery. So, you will have different pattern kind of calories. Right. You're all of them finished running and
+
+78
+00:16:55.080 --> 00:17:08.250
+So then when you have different types of errors when you do the LCS that I'm taking just one type of other than that becomes the pattern. So you made for at least 24 hours and then planet, you get a better cluster is what I feel.
+
+79
+00:17:09.390 --> 00:17:12.690
+So, say that again immediately of
+
+80
+00:17:14.250 --> 00:17:15.900
+giving it some time so
+
+81
+00:17:17.130 --> 00:17:20.760
+Current processes. It is anyway triggering off 20 for us now.
+
+82
+00:17:21.930 --> 00:17:30.330
+It is only on Tuesdays. So what are those we if we give you the mountain manual sitting down to look at it.
+
+83
+00:17:31.410 --> 00:17:44.220
+In three minutes should come in. But if we give you an API probably after all the discovery said, you also have one day have finished after that probably towards the front left from Jim
+
+84
+00:17:45.090 --> 00:17:55.860
+Says you will be the best person to do it. Tell us what to do because you weren't that great person if we do something we not exactly momentum great happens right so
+
+85
+00:17:56.490 --> 00:18:11.010
+If we give you an API or a button that trigger has to be triggered by you. What do you prefer as well. Okay, so, I mean, in my opinion, the one that I shared some time back as well. So before upgrade after upgrade or whatever the time frame.
+
+86
+00:18:12.450 --> 00:18:22.290
+If you give a provision to show the difference as well. The new patterns have been created posts that are the new IPs that have been discovered pose that like as a default
+
+87
+00:18:23.250 --> 00:18:32.280
+So that would be the ideal things instead of putting everything in a consultative manner. So especially like the trigger part what you're trying to say enough is more
+
+88
+00:18:33.300 --> 00:18:34.590
+Point A to Point B.
+
+89
+00:18:36.060 --> 00:18:41.880
+So what's the difference that happened from point A to point B. So instead of having all the bus all the past history.
+
+90
+00:18:43.170 --> 00:18:46.560
+So maybe we can have that as a, what are the new things that happened.
+
+91
+00:18:47.580 --> 00:19:04.980
+Hey boss here last time. Yeah. But the last last so like so. That's not what I see is like a human accumulates all the time consolidates all of them together. So it's tough to identify like maybe put a timeline and try to do that.
+
+92
+00:19:06.420 --> 00:19:17.310
+We can see that. Do you want a different way to see. I think what vices suggesting is let's say you you will. And luckily the 70s late 70s back we ran
+
+93
+00:19:17.730 --> 00:19:34.230
+The X amount of errors they have by amount like like sort of this discussion that he wants to get a difference of what it looks like to after somewhere so that way it gives sense to a perspective of what happens like me, if, if you want to have a click as an option.
+
+94
+00:19:35.760 --> 00:19:43.620
+You know, otherwise, if you're trying to go with an auto inclination. So then we have to find it out by putting a query or something else. But if you're seeing click as an option.
+
+95
+00:19:44.280 --> 00:19:52.890
+To then I'm trying to have that as my baseline offer even after like you. The discovery art code is still need to run. So, yeah, yeah.
+
+96
+00:19:54.750 --> 00:20:03.000
+But that's, that's fine. I'll be there isn't, you're saying it should be like in that we have. It's like when I click it, it is. It's what my intention is there.
+
+97
+00:20:04.260 --> 00:20:08.610
+Within sort of automation. I want to intervene in between because of some purpose for that.
+
+98
+00:20:10.230 --> 00:20:22.950
+So let's say today upgraded version one he will check the letters tomorrow upgraded version to they want to see between version one and two. What are the new errors. Yes. So what are the new things that and that I've come across in this one.
+
+99
+00:20:24.660 --> 00:20:24.960
+So,
+
+100
+00:20:26.730 --> 00:20:27.450
+I can show you.
+
+101
+00:20:30.420 --> 00:20:32.070
+Sorry, I had to re login here.
+
+102
+00:20:33.090 --> 00:20:34.740
+We nothing we could have like a
+
+103
+00:20:38.010 --> 00:20:44.250
+Like a daily job that says, Okay, if Tuesday or see where's the
+
+104
+00:20:45.420 --> 00:20:47.760
+Computer is acting funny but um
+
+105
+00:20:48.690 --> 00:20:50.160
+That's a good idea. I see my
+
+106
+00:20:51.120 --> 00:20:53.130
+Query on CSS upgrade his fast.
+
+107
+00:20:54.060 --> 00:20:57.240
+And then check whether there's an upgrade and an idea. Good idea.
+
+108
+00:21:00.780 --> 00:21:03.870
+Yeah, we could do that by now why is
+
+109
+00:21:05.430 --> 00:21:11.190
+That certainly the trigger the trigger here, Lisa. What is it near us
+
+110
+00:21:12.510 --> 00:21:19.200
+So then if you want to kind of see what happens like phone how the manual one then that you can have a snapshot of that particular moment.
+
+111
+00:21:20.730 --> 00:21:27.540
+So, otherwise it's automated and manual. Doesn't matter if it's something similar to what the assumption, Nathan also have so snapshot basic and
+
+112
+00:21:27.840 --> 00:21:38.880
+So whenever there is an actual upgrade and we under discovery, you want to save some information so that even compared with the next upgrades. Man, I would like to say there is a different part descriptors compassion.
+
+113
+00:21:39.270 --> 00:21:50.010
+Here it is more about what of new things happen. Yeah, I mean like data is different. Obviously. Yeah, for data is different and our purpose is different. Only and upgrades. You want to have it really only
+
+114
+00:21:51.540 --> 00:21:51.750
+Only
+
+115
+00:21:52.830 --> 00:22:00.030
+Only during upgrades. So we need to tag somehow that these are, this is a great time once we click on track now.
+
+116
+00:22:00.600 --> 00:22:10.410
+So from then onwards, maybe can populate some kind of latency, like they should, they should be independent, we can still get on which date on which run how many years we got
+
+117
+00:22:11.340 --> 00:22:20.760
+That information. We still have all we need is just a small difference this is bad. This version that we can use this app version. Yes, you can use that
+
+118
+00:22:21.570 --> 00:22:24.390
+Streak, and you can't have a trigger. I can, I can show you that trigger
+
+119
+00:22:24.930 --> 00:22:34.980
+And this update history is it for 22 on day Tony Tony Danza trigger that platform generates for you if any upgrade happens. So you can use that as a trigger.
+
+120
+00:22:35.550 --> 00:22:47.820
+To carry the same thing. That's like we have the trigger be using using that for a different purpose, but we can choose. So you should give the Daily News, the same trigger to them. No, no. Yeah, but it was four years with the
+
+121
+00:22:49.500 --> 00:22:49.980
+Trigger projects.
+
+122
+00:22:51.210 --> 00:23:09.090
+Okay, so right. I think you'll be done this to use trigger with the channel that we need to wait some time. That's what we have like Jim said we have a daily job which checks whether there was an upgrade in the previous day. We wanted to check it, you will give the trigger instantaneously.
+
+123
+00:23:10.170 --> 00:23:10.590
+Waiting
+
+124
+00:23:12.480 --> 00:23:14.520
+For you, what do you want to blow my
+
+125
+00:23:15.540 --> 00:23:18.420
+View the trigger for one day. Yeah.
+
+126
+00:23:23.970 --> 00:23:24.180
+Yeah.
+
+127
+00:23:25.140 --> 00:23:41.880
+I think if I understand what you're saying is I think there is an upgrade event somewhere in the system and then you would you would some something would watch for that event, and then put in a scheduled put in a scheduled 124 hours in the future.
+
+128
+00:23:46.350 --> 00:23:52.230
+Now it's cool to searching. So there are two things. One is we can we can put in the scheduler.
+
+129
+00:23:52.290 --> 00:23:57.090
+Or we can write in the program itself. Whenever the event or whenever the upgrade happens
+
+130
+00:23:58.050 --> 00:24:11.970
+The platform will initiate a trigger. So we need to kind of, it's not a pull mechanism. It's more like a push mechanism. So that will push you went back to the program and program can take an action from there. Okay.
+
+131
+00:24:13.380 --> 00:24:17.730
+So place. But I think the the is, you still need to wait for loss to
+
+132
+00:24:18.990 --> 00:24:30.210
+Upgrade happen is, all of that, how you want to do that. Right. And then here's the 32nd job ready for our future. But we don't go up with a button for ours. We want to know.
+
+133
+00:24:32.070 --> 00:24:36.150
+The after whenever it is you do we consider implementation plan.
+
+134
+00:24:37.290 --> 00:24:50.070
+But then we have to store the data from that run with the same ID. So when you go to the Delta yeah legal the raw data, we are actually different of London, actually.
+
+135
+00:24:51.180 --> 00:25:03.210
+Tested and you won't give in terms of error counts or as less than you matters. Basically, every pattern removed, whatever is new. And what is the difference in existing more more on those lines.
+
+136
+00:25:04.770 --> 00:25:11.460
+Right, just before ingest after 24 hours later in the day, we don't have the money we do the last
+
+137
+00:25:15.360 --> 00:25:24.570
+No 124 of us would be very long time, maybe before 24 hours maybe a week before and
+
+138
+00:25:26.640 --> 00:25:30.780
+All the last of the last time. So you wanted to the veins of
+
+139
+00:25:33.540 --> 00:25:36.780
+This, if you look at the product you have already read on everyone's
+
+140
+00:25:38.820 --> 00:25:44.610
+That means, so that means you need that power to Dave basically when you want to see the your student before how
+
+141
+00:25:45.810 --> 00:25:55.620
+Do we have this we have something called snapshot, but that is not for this purpose, but we have a way to see two different times. Instead, there is something is
+
+142
+00:25:57.000 --> 00:26:04.860
+It has a manual part to it where you were before, I'm not going. You say save the snapshot and after it again. Good.
+
+143
+00:26:06.060 --> 00:26:06.360
+Thinking
+
+144
+00:26:07.650 --> 00:26:09.780
+But every saving for every
+
+145
+00:26:11.940 --> 00:26:12.930
+Three months or
+
+146
+00:26:14.250 --> 00:26:28.530
+A dumbbell between a blade also either not the days. This is the same day to break that so it is a difference like you depend on. So it depends on the environment. Yeah. Alright, so this is the frequency is more
+
+147
+00:26:31.500 --> 00:26:45.660
+talker. So frequency thing okay different hobbies. Yeah, so that is how we need to do. That is what we have to handle like the frequency that you can do that. So for the first problem I think the answer is simple. This is can you read first
+
+148
+00:26:49.140 --> 00:27:01.350
+And then make a diff thing also for you to have a better over time. Right. I didn't discuss with this looks better if you added there. So that can be used for other use instead of creating a custom solution.
+
+149
+00:27:02.790 --> 00:27:13.980
+So we appreciate you meeting with you is Jim you're okay with this right you suggested a 24 hour later, we run a that should solve your problem of looking into it. Right.
+
+150
+00:27:14.460 --> 00:27:18.450
+Yeah, that'd be great. Yeah, either any of those solutions will work for me.
+
+151
+00:27:19.530 --> 00:27:19.890
+Okay.
+
+152
+00:27:20.940 --> 00:27:23.250
+Yeah, so probably for the snapshot by
+
+153
+00:27:24.540 --> 00:27:33.540
+We meet with wise to your team and say what how you would like to have it. Sure. The last time. So we have not seen it operation on the so our
+
+154
+00:27:34.710 --> 00:27:35.340
+Okay, it's
+
+155
+00:27:36.720 --> 00:27:43.800
+Still not user making the last time and have this question, smart enough worship is what they said, Okay, so we have
+
+156
+00:27:45.060 --> 00:27:51.120
+We can check. Yeah, we'll discuss on that internally and see where it but ideally we want to leverage that so that
+
+157
+00:27:52.500 --> 00:27:55.410
+Yeah, if you have some capability better to add their product starting
+
+158
+00:27:56.550 --> 00:27:58.650
+So if they wanted to put on the check.
+
+159
+00:28:00.810 --> 00:28:02.850
+Mark. This time you're not used to it. Okay.
+
+160
+00:28:04.410 --> 00:28:04.710
+Yeah.
+
+161
+00:28:06.510 --> 00:28:07.440
+Okay, nothing.
+
+162
+00:28:08.610 --> 00:28:12.600
+And regarding the updated version things since we as
+
+163
+00:28:17.040 --> 00:28:19.830
+I don't know why it was done that way, but
+
+164
+00:28:21.870 --> 00:28:38.910
+Richard version table Jim had pointed out that we have every, every update being tracked. So we were in the conversation we started gym so we either have to create a new table or create the updates and another table so that those updates. Don't get tracked
+
+165
+00:28:40.230 --> 00:28:40.590
+Okay.
+
+166
+00:28:40.650 --> 00:28:51.210
+We go back to your third of the risk off the table. Yeah, so you're making as references to other people. So it is getting up there doing nothing. Yeah.
+
+167
+00:28:52.830 --> 00:28:53.670
+There's just so many
+
+168
+00:28:55.530 --> 00:28:56.160
+Can you show
+
+169
+00:28:56.340 --> 00:28:57.480
+A lot of records as well.
+
+170
+00:28:57.750 --> 00:29:05.130
+The thing that will immediately impact you is whenever we're looking for whoever change versions during a certain time you'll get
+
+171
+00:29:06.960 --> 00:29:07.230
+You'll get
+
+172
+00:29:08.550 --> 00:29:11.610
+Too many off the discovery of the definition paper. Sometimes we
+
+173
+00:29:11.610 --> 00:29:18.330
+look and say, okay, who, who, who changed anything, you know, in that two hour period when things went bad and
+
+174
+00:29:18.690 --> 00:29:20.460
+It's just a quarter, it's not
+
+175
+00:29:21.810 --> 00:29:24.030
+I don't think it's immediately hurting anything. I was just
+
+176
+00:29:24.360 --> 00:29:25.620
+It's just clutter. So
+
+177
+00:29:26.280 --> 00:29:29.100
+I would say it's not urgent. But I'm pretty
+
+178
+00:29:30.120 --> 00:29:31.080
+Clean it up, down the road.
+
+179
+00:29:32.370 --> 00:29:32.670
+Okay.
+
+180
+00:29:33.720 --> 00:29:37.620
+So anything time without the Doctor, thank you. Sure.
+
+181
+00:29:38.460 --> 00:29:38.880
+Thank you very
+
+182
+00:29:39.630 --> 00:29:40.080
+Good morning.
+
+183
+00:29:42.780 --> 00:29:43.710
+Good. I think religion.
+
+184
+00:29:44.910 --> 00:29:50.340
+Might be yes. So, so do any actions on the Vizio project, anything that we should look at.
+
+185
+00:29:50.640 --> 00:29:53.220
+Yeah, so I put some notes up in the channel.
+
+186
+00:29:54.930 --> 00:30:01.170
+For some reason that s&m he calls from the mid to the target machines.
+
+187
+00:30:03.870 --> 00:30:09.300
+According to the logs have gone from like point two seconds to like 40 seconds. Sometimes
+
+188
+00:30:10.620 --> 00:30:11.040
+Okay.
+
+189
+00:30:11.250 --> 00:30:28.740
+So I asked such a site is here, though. He's probably asleep now too. But before we went to sleep. He and I were talking a little bit but um I posted some spunk graphs and things like that in the DC upgrade channel and I think it's pretty clear that
+
+190
+00:30:30.750 --> 00:30:34.560
+s&m P is taking longer than it used to, but I have not
+
+191
+00:30:36.240 --> 00:30:40.290
+Tim Tim broberg is is grabbing some TCP dumps overnight.
+
+192
+00:30:43.770 --> 00:30:48.090
+So we're hoping that will tell us more about why that's happening.
+
+193
+00:30:50.850 --> 00:31:10.650
+So Jim, is it is good performance that particular. What's the reason the method will that help anyway if we can upload that the cluster level on this call status. We have, we have a platform feature right to validate pronunciation time accusation time
+
+194
+00:31:11.070 --> 00:31:13.620
+Yeah, if you could look at that, when I was thinking about that one AMC
+
+195
+00:31:14.910 --> 00:31:15.210
+I was
+
+196
+00:31:15.240 --> 00:31:20.100
+Using show, but if you could look at that one. That'd be great. Because I think that show the same thing.
+
+197
+00:31:20.940 --> 00:31:23.490
+Okay, sure. I'll take a look on them today.
+
+198
+00:31:25.350 --> 00:31:25.620
+Cool.
+
+199
+00:31:27.600 --> 00:31:30.810
+Okay, well thanks a lot, and yeah.
+
+200
+00:31:30.900 --> 00:31:31.290
+Oh,
+
+201
+00:31:33.660 --> 00:31:33.960
+Thank you.
+
+202
+00:31:36.090 --> 00:31:36.420
+Good night.
+
+203
+00:31:49.980 --> 00:31:54.060
+Think in W set up a phone. I mean, the only thing is like
+
+204
+00:31:56.610 --> 00:32:03.960
+That continuous we're of foods that are reporting, warning, warning and all of that changes before that and we want to identify
+
+205
+00:32:05.160 --> 00:32:16.350
+The have changed. Yeah, what the system is change that's been conducting Greg Whiteley then focus on those. So that's anything expected or not expected that will help us well if you mix of these things.
+
+206
+00:32:17.370 --> 00:32:20.910
+Is kind of segregate them is a challenge.
+
+207
+00:32:22.650 --> 00:32:27.210
+Yeah, so here we be looking at Discovery logs already, right, obviously it will
+
+208
+00:32:28.350 --> 00:32:35.970
+Drop some weight but. So as of now, we have to manually see and absorb them. But if the system itself shows up the way that
+
+209
+00:32:36.420 --> 00:32:41.790
+The, the new things, new drivers have not discovered or the, the new earth that have come through or
+
+210
+00:32:42.300 --> 00:32:49.020
+Morning devices may not be convinced cannot be captured from the risk officer again and different mechanisms.
+
+211
+00:32:49.650 --> 00:33:05.340
+But also look three things that you normally do right we we new devices from the discovery law if it's not being discovered. Can we talk to the CA, which gave the editor and show that this was the device and just thinking, see there are a couple of things.
+
+212
+00:33:06.480 --> 00:33:12.390
+One is, for example, if a place or something else. If they're all rights, the file. Yeah.
+
+213
+00:33:13.710 --> 00:33:24.000
+So then the discord might not happen. Okay, so there are a couple of qualities is the disco doesn't happen for the dividers. So Daniel. See that file got changed or not.
+
+214
+00:33:24.660 --> 00:33:38.010
+So that is one aspect. The second aspect. If platform. Introducing the new words new patterns new warnings. So we have to see like, what is the frequency how big, how big is it number
+
+215
+00:33:39.240 --> 00:33:44.220
+And what are the different kinds of devices using the same credit for based on that you have to see.
+
+216
+00:33:45.300 --> 00:33:48.900
+There's an expected behavior not unexpected behaviour with it's going to fall.
+
+217
+00:33:50.790 --> 00:34:05.880
+Like any impact on our, on our scoping against the law errors desserts warnings and also God is called may not be so if you're not as good, nice like its own thing in the Delta, you may not find that
+
+218
+00:34:06.960 --> 00:34:14.010
+Yeah, it's tough for you to find out, but maybe we'll find out in different ways, right there. I didn't burn fortunate problem, we can help and the rest
+
+219
+00:34:14.520 --> 00:34:22.980
+So we have other query within the CI table or maybe table. We can vary on file it all, but these are the common three challenges that we have
+
+220
+00:34:23.430 --> 00:34:41.970
+Right, yeah. So probably when we take it up, we can discuss what is the free upgrade thing. Would you like a week's average over 10 years which have been occurring. We can profit as to how did you play games today your bread. What is your sanity point with with your see
+
+221
+00:34:44.070 --> 00:34:58.260
+If you see the graduation point of view, right. The first party that we see is the time wise, whether it is taking in Eastern Time. Awesome. This 1pm PM for certain words post here when we get back on and on the same one. We
+
+222
+00:34:59.910 --> 00:35:08.280
+Read it could be before 24 immediately. Immediately before we enable this think that's the first thing. The second thing with the ability to provide has been discord or not.
+
+223
+00:35:10.440 --> 00:35:13.020
+So the scheduled times discovery.
+
+224
+00:35:14.130 --> 00:35:21.210
+Next comes the herbs and any of the new herbs or patterns that are being created. So there's a top the next spread
+
+225
+00:35:22.890 --> 00:35:28.560
+So maybe if you can handle that, like, once we do that manually. So the bottom two things is that automation can handle that.
+
+226
+00:35:30.420 --> 00:35:32.970
+So that way it can happen in a single
+
+227
+00:35:36.720 --> 00:35:41.340
+API, we should be able to select that as a period of the delta
+
+228
+00:35:42.420 --> 00:35:44.820
+Or video. Yeah. We should be
+
+229
+00:35:46.980 --> 00:35:52.440
+Ready for our third. Yeah. So let's do some yoga probably that before.
+
+230
+00:35:53.640 --> 00:35:58.140
+We can't see just 24 hours, you might want to see the last one, the
+
+231
+00:35:59.940 --> 00:36:01.470
+Last 24 hours right
+
+232
+00:36:03.030 --> 00:36:07.950
+I mean, it's an enabler for you. You may act differently. So we have the parameter
+
+233
+00:36:10.020 --> 00:36:27.060
+Like a plan, you can have a parameter is or he has finished or whatever. So in that way. So the family comes with a design and taken the approach to the first thing is differently. You're funny new person comes in. So the very first class which we can take up is given the trigger, which
+
+234
+00:36:29.490 --> 00:36:36.330
+Is a new thing that can be done. Yeah. So you said that can be done easily that but let's handle that first
+
+235
+00:36:37.830 --> 00:36:38.430
+This one.
+
+236
+00:36:53.040 --> 00:36:55.020
+big milestone for Vodafone
+
